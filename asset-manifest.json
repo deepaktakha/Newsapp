@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/://deepaktakha.github.io/Newaapp/static/css/main.abd64e84.css",
+    "main.js": "/://deepaktakha.github.io/Newaapp/static/js/main.248ad658.js",
+    "static/js/787.4c026eef.chunk.js": "/://deepaktakha.github.io/Newaapp/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.webp": "/://deepaktakha.github.io/Newaapp/static/media/loading.4d9ec2a46103a03fa9fe.webp",
+    "index.html": "/://deepaktakha.github.io/Newaapp/index.html",
+    "main.abd64e84.css.map": "/://deepaktakha.github.io/Newaapp/static/css/main.abd64e84.css.map",
+    "main.248ad658.js.map": "/://deepaktakha.github.io/Newaapp/static/js/main.248ad658.js.map",
+    "787.4c026eef.chunk.js.map": "/://deepaktakha.github.io/Newaapp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.248ad658.js"
+  ]
+}
