@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Monterey Park shooting: Local residents in shock and sorrow",
+      "description": "The gunman remains on the loose after his attack at a popular dance club in the majority-Asian city.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64366765",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B14B/production/_128378354_30cd39acd346d4328e3a41bef33e4ad49db82c53.jpg",
+      "publishedAt": "2023-01-22T16:52:21.8733932Z",
+      "content": "Local residents are expressing their shock after a mass shooting in Monterey Park, California, that left at least 10 people dead and at least 10 others wounded.\r\nThe incident on Saturday night happen… [+2186 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "First woman pastor in Holy Land ordained",
+      "description": "Palestinian Sally Azar became the region's first female church leader at an event in Jerusalem.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-64364143",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5C69/production/_128375632_sallyazar.jpg",
+      "publishedAt": "2023-01-22T16:07:21.4259302Z",
+      "content": "In many parts of the Christian world, female church leaders are no longer unusual. But until now, the Holy Land - where events in the Bible are set - had not seen a local woman ordained.\r\nOn Sunday, … [+3053 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ten killed in shooting near LA after Lunar New Year event",
+      "description": "Police say a suspect is still at large after the incident in the Californian city of Monterey Park.",
+      "url": "http://www.bbc.co.uk/news/live/world-us-canada-64365251",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-01-22T12:07:29.1862883Z",
+      "content": "Speaking at a press conference early on Sunday morning, Captain\r\nAndrew Meyer of the Los Angeles County Sheriff's Department said: \r\n\"Last\r\nnight, at approximately 22:22 [local time, 06:22 GMT] offic… [+951 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "Injured Mahomes leads Chiefs; Eagles dominate Giants",
+      "description": "Patrick Mahomes battles ankle injury as the Kansas City Chiefs beat the Jacksonville Jaguars while the Philadelphia Eagles dominate the New York Giants.",
+      "url": "http://www.bbc.co.uk/sport/american-football/64362953",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0A57/production/_128374620_gettyimages-1246426444.jpg",
+      "publishedAt": "2023-01-22T04:52:21.1867277Z",
+      "content": "Patrick Mahomes overcame an ankle injury to lead the Chiefs to victory\r\n<table><tr><th>Super Bowl 57</th></tr>\r\n<tr><td>Venue: State Farm Stadium, Glendale Date: Sunday, 12 February Start: 23:30 GMT<… [+5405 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Actor Jeremy Renner broke over 30 bones in snow plough accident",
+      "description": "The Avengers star shares an update on his recovery after being critically injured on New Year's Day.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-64363167",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13C7B/production/_128191018_901b88fb0a72fe5a37a67e5e9d2ad28599281cd7.jpg",
+      "publishedAt": "2023-01-22T04:52:16.9049733Z",
+      "content": "Hollywood actor Jeremy Renner has said he broke more than 30 bones in his body when he was accidentally run over by a snow plough on New Year's Day.\r\nGiving an update on his recovery, the Avengers ac… [+2272 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Canada settles residential schools lawsuit for $2.8bn",
+      "description": "The compulsory boarding schools were part of a policy designed to assimilate indigenous children.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64362246",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C4AB/production/_128374305_gettyimages-1240862910.jpg",
+      "publishedAt": "2023-01-21T23:07:24.5231213Z",
+      "content": "Canada has agreed to pay C$2.8bn ($2.9bn; £1.68bn) to settle a class-action lawsuit seeking compensation for the loss of language and culture caused by its residential school system.\r\nGovernment-fund… [+2270 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Tennessee fires officials after damning death penalty report",
+      "description": "The lethal injection is under increased scrutiny after a series of botched executions in several states.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64347169",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17725/production/_128373069_gettyimages-521107252.jpg",
+      "publishedAt": "2023-01-21T22:22:24.1033785Z",
+      "content": "Tennessee has fired two top officials after a report revealed numerous errors in the state's lethal injection system.\r\nThe state's Department of Corrections fired head lawyer, Debra Inglis, and Inspe… [+2441 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Joe Biden's chief of staff Ron Klain expected to step down - reports",
+      "description": "Ron Klain, who has spent decades as one of Mr Biden's top aides, could leave within weeks, reports say.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64362358",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/132C9/production/_128373587_gettyimages-458920560.jpg",
+      "publishedAt": "2023-01-21T21:22:19.9576008Z",
+      "content": "President Joe Biden's chief of staff, Ron Klain, is expected to leave his role in the coming weeks, according to multiple reports by US media outlets.\r\nThe departure of the veteran political operativ… [+1975 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Dolphins seen in Bronx River for first time in five years",
+      "description": "Authorities keep the Bronx River in south-east New York City stocked with a plentiful supply of fish.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64359319",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5B15/production/_128371332_93fc48bc-6757-4f7b-9904-ba3af9e93110.jpg",
+      "publishedAt": "2023-01-21T20:52:19.8342984Z",
+      "content": "Dolphins are back in the Bronx River in New York for the first time in more than five years.\r\nThough they were recently seen in the city's East River, it is the first time the animals have been spott… [+1874 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Buzz Aldrin marries for the fourth time, aged 93",
+      "description": "The former US astronaut, who was the second man on the moon, married his partner in Los Angeles.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64359316",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/766D/production/_128371303_buzzaldrin1.jpg",
+      "publishedAt": "2023-01-21T15:37:21.095188Z",
+      "content": "The former US astronaut Buzz Aldrin has got married for the fourth time on his 93rd birthday. \r\nMr Aldrin piloted the legendary Apollo 11 spaceflight in 1969, becoming one of the first two people to … [+1524 chars]"
+    }
+  ]
+}
